@@ -2,14 +2,14 @@
 """
 Created on Tue Aug 20 12:51:56 2019
 
-@author: mahe
+@author: kundan thakare
 """
 
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jul 27 19:15:15 2019
 
-@author: mahe
+@author: kundan thakare
 """
 
 '''This script detects if a person is drowsy or not,using dlib and eye aspect ratio
